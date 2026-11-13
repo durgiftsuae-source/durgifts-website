@@ -1,0 +1,197 @@
+[
+  {
+    "id": "dur-82-honey-barrel",
+    "sku": "DUR-8201",
+    "name": {
+      "en": "Honey Barrel Amber Misbaha",
+      "ar": "مسبحة كهرمان برميل العسل"
+    },
+    "category": "premium-misbahas",
+    "price": {
+      "en": "AED 650",
+      "ar": "٦٥٠ درهم"
+    },
+    "image": "/assets/aistudio/82_Honey_Barrel_cleaned_1940x2576_07e30b70.jpg",
+    "description": {
+      "en": "Hand-carved premium honey-amber barrel beads radiating golden warmth, paired with an artisanal handwoven emerald-and-crimson silk tassel bound with gold bullion thread.",
+      "ar": "حبات برميلية منحوتة يدوياً من الكهرمان العسلي الفاخر، تفيض بالدفء والأناقة، مع كركوشة حريرية مجدولة يدوياً بتدرجات الزمرد والعناب ومحبوكة بخيوط القصب المذهبة."
+    },
+    "specs": {
+      "en": {
+        "beadCount": "33 Beads",
+        "beadShape": "Barrel Cut",
+        "material": "Warm Translucent Honey Amber",
+        "tassel": "Hand-braided silk & gold bullion thread",
+        "origin": "Master Artisanal Craftsmanship"
+      },
+      "ar": {
+        "beadCount": "٣٣ حبة",
+        "beadShape": "قصة برميلية ملساء",
+        "material": "كهرمان عسلي فاخر شفاف",
+        "tassel": "كركوشة حريرية مجدولة مع خيوط القصب الذهبية",
+        "origin": "صياغة يدوية متقنة عالية الجودة"
+      }
+    },
+    "inStock": true,
+    "featured": true,
+    "visible": true,
+    "isBestSeller": true,
+    "isNewArrival": false
+  },
+  {
+    "id": "dur-103-amber-flake-sage",
+    "sku": "DUR-1032",
+    "name": {
+      "en": "Amber Flake Sage Misbaha",
+      "ar": "مسبحة كهرمان ندف المريمية"
+    },
+    "category": "luxury-misbahas",
+    "price": {
+      "en": "AED 850",
+      "ar": "٨٥٠ درهم"
+    },
+    "image": "/assets/aistudio/103_Amber_Flake_Sage_cleaned_1940x2576_1c8afa05.jpg",
+    "description": {
+      "en": "Mastercrafted almond-shaped beads featuring suspended natural amber flakes with luminous depth, adorned with a delicate sage green and gold knotted bullion tassel.",
+      "ar": "خرزات لوزية ملكية بنقوش وندف الكهرمان الطبيعي المعلق ببريق ساحر، مزينة بكركوشة فاخرة بلون المريمية الأخضر مع عقد مذهبة من القصب."
+    },
+    "specs": {
+      "en": {
+        "beadCount": "33 Beads",
+        "beadShape": "Oval Almond",
+        "material": "Flaked Royal Amber",
+        "tassel": "Sage green woven cord with gold finials",
+        "origin": "Master Artisanal Craftsmanship"
+      },
+      "ar": {
+        "beadCount": "٣٣ حبة",
+        "beadShape": "قصة بيضاوية لوزية",
+        "material": "كهرمان ملكي مندف",
+        "tassel": "حبل بلون المريمية مع نهايات مذهبة",
+        "origin": "صياغة يدوية متقنة عالية الجودة"
+      }
+    },
+    "inStock": true,
+    "featured": true,
+    "visible": true,
+    "isBestSeller": true,
+    "isNewArrival": false
+  },
+  {
+    "id": "dur-110-ivory-veined-red",
+    "sku": "DUR-1103",
+    "name": {
+      "en": "Ivory Veined Gold Misbaha",
+      "ar": "مسبحة عاجية معرقة بالذهب"
+    },
+    "category": "special-collections",
+    "price": {
+      "en": "AED 920",
+      "ar": "٩٢٠ درهم"
+    },
+    "image": "/assets/aistudio/110_Ivory_Veined_Red_cleaned_1940x2576_e68b3fed.jpg",
+    "description": {
+      "en": "Exquisite luminous ivory beads intricately veined with molten gold marbling, complemented by an imperial ruby-red silk braided cord and gold binding.",
+      "ar": "حبات عاجية فاخرة تعانقها تعريقات ذهبية مصهورة بانسيابية أخاذة، مصحوبة بخيوط حريرية حمراء قانية وعقدة ملكية مذهبة."
+    },
+    "specs": {
+      "en": {
+        "beadCount": "33 Beads",
+        "beadShape": "Smooth Barrel-Oval",
+        "material": "Veined Ivory & Molten Gold Marbling",
+        "tassel": "Imperial red silk braid with gold cuffs",
+        "origin": "Master Artisanal Craftsmanship"
+      },
+      "ar": {
+        "beadCount": "٣٣ حبة",
+        "beadShape": "قصة بيضاوية ناعمة",
+        "material": "خامة عاجية معرقة بخيوط ذهبية",
+        "tassel": "جديلة حريرية حمراء مع نهايات مذهبة",
+        "origin": "صياغة يدوية متقنة عالية الجودة"
+      }
+    },
+    "inStock": true,
+    "featured": true,
+    "visible": true,
+    "isBestSeller": false,
+    "isNewArrival": true
+  },
+  {
+    "id": "dur-31-lemon-gold",
+    "sku": "DUR-3104",
+    "name": {
+      "en": "Lemon Gold Amber Misbaha",
+      "ar": "مسبحة كهرمان ليموني مذهب"
+    },
+    "category": "premium-misbahas",
+    "price": {
+      "en": "AED 720",
+      "ar": "٧٢٠ درهم"
+    },
+    "image": "/assets/aistudio/31_Lemon_Gold_cleaned_1940x2576_5e83efc2.jpg",
+    "description": {
+      "en": "Crystal-clear vibrant lemon-amber beads that capture and refract desert sunlight, finished with an artisan dual-tone teal and ruby braided cord.",
+      "ar": "حبات صافية من الكهرمان الليموني النقي تشع ببريق أشعة الشمس، متوجة بجديلة فنية مزدوجة باللون الفيروزي والعنابي المحبوك بعناية."
+    },
+    "specs": {
+      "en": {
+        "beadCount": "33 Beads",
+        "beadShape": "Cylindrical Cushion",
+        "material": "Pure Lemon Amber",
+        "tassel": "Bicolor teal & crimson cord with intricate knotting",
+        "origin": "Master Artisanal Craftsmanship"
+      },
+      "ar": {
+        "beadCount": "٣٣ حبة",
+        "beadShape": "قصة أسطوانية ناعمة الحواف",
+        "material": "كهرمان ليموني نقي شفاف",
+        "tassel": "حبل مجدول بلونين مع عقد يدوية مميزة",
+        "origin": "صياغة يدوية متقنة عالية الجودة"
+      }
+    },
+    "inStock": true,
+    "featured": true,
+    "visible": true,
+    "isBestSeller": false,
+    "isNewArrival": true
+  },
+  {
+    "id": "dur-56-coral-red",
+    "sku": "DUR-5605",
+    "name": {
+      "en": "Royal Coral Red Misbaha",
+      "ar": "مسبحة المرجان الأحمر الملكي"
+    },
+    "category": "luxury-misbahas",
+    "price": {
+      "en": "AED 1,150",
+      "ar": "١,١٥٠ درهم"
+    },
+    "image": "/assets/aistudio/56_Coral_Red_cleaned_ecac8465.png",
+    "description": {
+      "en": "Radiant deep royal coral spherical beads paired with pure carved silver filigree minaret (Imam), silver spacers, and an intricate ornamental silver Celtic knot talisman.",
+      "ar": "حبات كروية ملساء من المرجان الأحمر القاني الفاخر، مع شاهد وفواصل محفورة من الفضة الخالصة وتدلية ناصعة بتصميم العقدة التراثية الأنيقة."
+    },
+    "specs": {
+      "en": {
+        "beadCount": "33 Beads",
+        "beadShape": "Spherical Round",
+        "material": "Royal Red Coral & Solid Silver 925",
+        "tassel": "Pure 925 Sterling Silver filigree minaret and talisman",
+        "origin": "Jeweled Masterpiece"
+      },
+      "ar": {
+        "beadCount": "٣٣ حبة",
+        "beadShape": "قصة كروية مصقولة",
+        "material": "مرجان أحمر ملكي وفضة إسترلينية ٩٢٥",
+        "tassel": "شاهد وفواصل وتدلية محفورة من الفضة عيار ٩٢٥",
+        "origin": "تحفة مجوهرات حصرية متقنة"
+      }
+    },
+    "inStock": true,
+    "featured": true,
+    "visible": true,
+    "isBestSeller": true,
+    "isNewArrival": true
+  }
+]
